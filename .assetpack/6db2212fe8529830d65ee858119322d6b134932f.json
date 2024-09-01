@@ -1,0 +1,1954 @@
+{
+    "assets": {
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets": {
+            "isFolder": true,
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}": {
+            "isFolder": true,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets",
+            "metaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}": {
+            "isFolder": true,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}",
+            "metaData": {
+                "tps": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}/button-large-hover.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "e_-uvg"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}/button-large-press.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "uupQGg"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}/button-large.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "z7Zrgw"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}/button-small-hover.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "TMmn2g"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}/button-small-press.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "wc1h_Q"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}/button-small.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "5IbJQQ"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}/icon-back-stroke.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "Oatutw"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}/icon-back.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "ozbU8w"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}/icon-pause-stroke.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "EZn-dw"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}/icon-pause.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "sHZYWQ"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}/rounded-rectangle.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "fUycdg"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}/star.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "vfBo2g"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}/white-cauldron.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "VSZH7A"
+        },
+        ".assetpack/texture-packer/common{m}/common-atlas.png": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {
+                "mIgnore": true,
+                "fix": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/mipmap/common{m}/common-atlas.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/common{m}/common-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/common{m}/common-atlas.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/common{m}/common-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/common-atlas-viLAVA.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/common{m}/common-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/common-atlas-viLAVA.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/common-atlas-viLAVA.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/common{m}/common-atlas.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/common{m}/common-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/common-atlas-LYMpwg.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/common{m}/common-atlas.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/common-atlas-LYMpwg.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/common-atlas-LYMpwg.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/texture-packer/common{m}/common-atlas.json": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/common{m}/common-atlas.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/common{m}/common-atlas.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/common{m}/common-atlas.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/common{m}/common-atlas.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/common{m}/common-atlas-q_ofKA.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/common{m}/common-atlas.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/common-atlas-qtvSLw.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/common-atlas-q_ofKA.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/common{m}/common-atlas.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/common{m}/common-atlas.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/common{m}/common-atlas.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/common{m}/common-atlas.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/common{m}/common-atlas-u-en8w.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/common{m}/common-atlas.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/common-atlas-GRI2zw.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/common-atlas-u-en8w.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer/common{m}/common-atlas@0.5x.png": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {
+                "mIgnore": true,
+                "fix": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/mipmap/common{m}/common-atlas@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/common{m}/common-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/common{m}/common-atlas@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/common{m}/common-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/common-atlas-uk-zGg@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/common{m}/common-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/common-atlas-uk-zGg@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/common-atlas-uk-zGg@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/common{m}/common-atlas@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/common{m}/common-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/common-atlas-5hB4ug@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/common{m}/common-atlas@0.5x.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/common-atlas-5hB4ug@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/common-atlas-5hB4ug@0.5x.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/texture-packer/common{m}/common-atlas@0.5x.json": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/common-atlas{tps}",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/common{m}/common-atlas@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/common{m}/common-atlas@0.5x.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/common{m}/common-atlas@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/common{m}/common-atlas@0.5x.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/common{m}/common-atlas-fIQXAg@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/common{m}/common-atlas@0.5x.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/common-atlas-pLWxlQ@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/common-atlas-fIQXAg@0.5x.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/common{m}/common-atlas@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/common{m}/common-atlas@0.5x.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/common{m}/common-atlas@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/common{m}/common-atlas@0.5x.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/common{m}/common-atlas-TfhRkg@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/common{m}/common-atlas@0.5x.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/common-atlas-XJF6@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/common-atlas-TfhRkg@0.5x.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-bubble.wav": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "F5admw"
+        },
+        ".assetpack/audio/common{m}/sfx-bubble.mp3": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-bubble.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-bubble-Gq8s1A.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-bubble.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-bubble-Gq8s1A.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-bubble-Gq8s1A.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/audio/common{m}/sfx-bubble.ogg": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-bubble.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-bubble-9QXnFg.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-bubble.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-bubble-9QXnFg.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-bubble-9QXnFg.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-correct.wav": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "IByHrA"
+        },
+        ".assetpack/audio/common{m}/sfx-correct.mp3": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-correct.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-correct-qAjYjg.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-correct.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-correct-qAjYjg.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-correct-qAjYjg.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/audio/common{m}/sfx-correct.ogg": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-correct.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-correct-gPU5Fg.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-correct.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-correct-gPU5Fg.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-correct-gPU5Fg.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-countdown.wav": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "tNhwEw"
+        },
+        ".assetpack/audio/common{m}/sfx-countdown.mp3": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-countdown.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-countdown-eue6VQ.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-countdown.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-countdown-eue6VQ.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-countdown-eue6VQ.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/audio/common{m}/sfx-countdown.ogg": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-countdown.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-countdown-J_xkmA.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-countdown.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-countdown-J_xkmA.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-countdown-J_xkmA.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-hover.wav": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "P9yd"
+        },
+        ".assetpack/audio/common{m}/sfx-hover.mp3": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-hover.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-hover-Ztp4.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-hover.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-hover-Ztp4.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-hover-Ztp4.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/audio/common{m}/sfx-hover.ogg": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-hover.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-hover-fnfQRA.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-hover.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-hover-fnfQRA.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-hover-fnfQRA.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-incorrect.wav": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "d0T4Uw"
+        },
+        ".assetpack/audio/common{m}/sfx-incorrect.mp3": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-incorrect.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-incorrect-7lfZww.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-incorrect.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-incorrect-7lfZww.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-incorrect-7lfZww.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/audio/common{m}/sfx-incorrect.ogg": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-incorrect.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-incorrect-M5F4Og.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-incorrect.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-incorrect-M5F4Og.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-incorrect-M5F4Og.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-match.wav": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "XMth"
+        },
+        ".assetpack/audio/common{m}/sfx-match.mp3": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-match.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-match-IS-g7Q.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-match.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-match-IS-g7Q.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-match-IS-g7Q.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/audio/common{m}/sfx-match.ogg": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-match.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-match-kf9GdA.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-match.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-match-kf9GdA.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-match-kf9GdA.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-points.wav": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "RR4fjw"
+        },
+        ".assetpack/audio/common{m}/sfx-points.mp3": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-points.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-points-kJ5GVA.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-points.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-points-kJ5GVA.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-points-kJ5GVA.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/audio/common{m}/sfx-points.ogg": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-points.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-points-GBjVnA.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-points.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-points-GBjVnA.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-points-GBjVnA.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-press.wav": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "59LMfg"
+        },
+        ".assetpack/audio/common{m}/sfx-press.mp3": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-press.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-press-PLf25Q.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-press.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-press-PLf25Q.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-press-PLf25Q.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/audio/common{m}/sfx-press.ogg": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-press.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-press-UzO30Q.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-press.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-press-UzO30Q.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-press-UzO30Q.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-special.wav": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "SzgPPQ"
+        },
+        ".assetpack/audio/common{m}/sfx-special.mp3": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-special.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-special-hWkUvg.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-special.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-special-hWkUvg.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-special-hWkUvg.mp3",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/audio/common{m}/sfx-special.ogg": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/common{m}/sfx-special.wav",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/common{m}/sfx-special-O71LKg.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/common{m}/sfx-special.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/common/sfx-special-O71LKg.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/common{m}/sfx-special-O71LKg.ogg",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}": {
+            "isFolder": true,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets",
+            "metaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}": {
+            "isFolder": true,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}",
+            "metaData": {
+                "tps": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/books-01.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "7NA_"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/books-02.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "_V9F"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/books-03.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "9Dw7kQ"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/books-04.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "1O5q"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/books-05.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "LR2nzw"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/game-header.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "zq_Upg"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/highlight.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "LMunKg"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/num-stroke-1.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "q3p61Q"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/num-stroke-2.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "0SaIQA"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/num-stroke-3.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "HLXYvw"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/num-stroke-4.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "z59wqA"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/num-stroke-5.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "qRw02w"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/piece-dragon.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "dynuvQ"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/piece-frog.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "-lgWjQ"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/piece-newt.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "2SiULQ"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/piece-snake.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "ySof"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/piece-spider.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "69usIQ"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/piece-yeti.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "_S1IhA"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/shelf-block.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "KGyA0Q"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/shelf-corner.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "ZRke8Q"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/special-blast.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "mNVj3Q"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/special-colour.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "P7AX6w"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/special-column.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "tfvcmw"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}/special-row.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "RD3uNw"
+        },
+        ".assetpack/texture-packer/game{m}/game-atlas@0.5x.png": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {
+                "mIgnore": true,
+                "fix": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/mipmap/game{m}/game-atlas@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/game{m}/game-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/game{m}/game-atlas@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/game{m}/game-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/game{m}/game-atlas-vdMiPQ@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/game{m}/game-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/game/game-atlas-vdMiPQ@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/game{m}/game-atlas-vdMiPQ@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/game{m}/game-atlas@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/game{m}/game-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/game{m}/game-atlas-IndnjA@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/game{m}/game-atlas@0.5x.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/game/game-atlas-IndnjA@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/game{m}/game-atlas-IndnjA@0.5x.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/texture-packer/game{m}/game-atlas@0.5x.json": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/game{m}/game-atlas@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/game{m}/game-atlas@0.5x.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/game{m}/game-atlas@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/game{m}/game-atlas@0.5x.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/game{m}/game-atlas-w6F4@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/game{m}/game-atlas@0.5x.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/game/game-atlas-fvfd2w@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/game{m}/game-atlas-w6F4@0.5x.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/game{m}/game-atlas@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/game{m}/game-atlas@0.5x.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/game{m}/game-atlas@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/game{m}/game-atlas@0.5x.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/game{m}/game-atlas-6k-y@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/game{m}/game-atlas@0.5x.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/game/game-atlas-HoVVxg@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/game{m}/game-atlas-6k-y@0.5x.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer/game{m}/game-atlas.png": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {
+                "mIgnore": true,
+                "fix": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/mipmap/game{m}/game-atlas.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/game{m}/game-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/game{m}/game-atlas.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/game{m}/game-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/game{m}/game-atlas-eNHdxg.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/game{m}/game-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/game/game-atlas-eNHdxg.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/game{m}/game-atlas-eNHdxg.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/game{m}/game-atlas.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/game{m}/game-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/game{m}/game-atlas-9cXM.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/game{m}/game-atlas.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/game/game-atlas-9cXM.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/game{m}/game-atlas-9cXM.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/texture-packer/game{m}/game-atlas.json": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/game{m}/game-atlas{tps}",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/game{m}/game-atlas.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/game{m}/game-atlas.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/game{m}/game-atlas.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/game{m}/game-atlas.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/game{m}/game-atlas-oQ9Wtw.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/game{m}/game-atlas.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/game/game-atlas-qZol.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/game{m}/game-atlas-oQ9Wtw.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/game{m}/game-atlas.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/game{m}/game-atlas.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/game{m}/game-atlas.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/game{m}/game-atlas.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/game{m}/game-atlas-WpRQng.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/game{m}/game-atlas.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/game/game-atlas-jjIJ1w.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/game{m}/game-atlas-WpRQng.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/home{m}": {
+            "isFolder": true,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets",
+            "metaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/home{m}/home-atlas{tps}": {
+            "isFolder": true,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/home{m}",
+            "metaData": {
+                "tps": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}": {
+            "isFolder": true,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets",
+            "metaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/cauldron-skeleton.atlas": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "kMIncg"
+        },
+        ".assetpack/mipmap-spine-atlas/preload{m}/cauldron-skeleton.atlas": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/cauldron-skeleton.atlas",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton.png.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap-spine-atlas/preload{m}/cauldron-skeleton.atlas",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-kMIncg.png.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton.png.atlas",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/cauldron-skeleton-nXPppw.png.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-kMIncg.png.atlas",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton.webp.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap-spine-atlas/preload{m}/cauldron-skeleton.atlas",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-Flz0Gw.webp.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton.webp.atlas",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/cauldron-skeleton-SO49rg.webp.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-Flz0Gw.webp.atlas",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/mipmap-spine-atlas/preload{m}/cauldron-skeleton@0.5x.atlas": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/cauldron-skeleton.atlas",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton@0.5x.png.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap-spine-atlas/preload{m}/cauldron-skeleton@0.5x.atlas",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-1Y7x2w@0.5x.png.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton@0.5x.png.atlas",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/cauldron-skeleton-rEWrEg@0.5x.png.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-1Y7x2w@0.5x.png.atlas",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton@0.5x.webp.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap-spine-atlas/preload{m}/cauldron-skeleton@0.5x.atlas",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-0HDidw@0.5x.webp.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton@0.5x.webp.atlas",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/cauldron-skeleton-x9cBkA@0.5x.webp.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-0HDidw@0.5x.webp.atlas",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/cauldron-skeleton.json": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "OvMtRw"
+        },
+        ".assetpack/json/preload{m}/cauldron-skeleton.json": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/cauldron-skeleton.json",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-pLdtSg.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/preload{m}/cauldron-skeleton.json",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/cauldron-skeleton-pLdtSg.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-pLdtSg.json",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/cauldron-skeleton.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "deNGIA"
+        },
+        ".assetpack/mipmap/preload{m}/cauldron-skeleton.png": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/cauldron-skeleton.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/preload{m}/cauldron-skeleton.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/preload{m}/cauldron-skeleton.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-IGBYVA.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/preload{m}/cauldron-skeleton.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/cauldron-skeleton-IGBYVA.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-IGBYVA.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/preload{m}/cauldron-skeleton.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/preload{m}/cauldron-skeleton.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-EI8BnQ.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/preload{m}/cauldron-skeleton.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/cauldron-skeleton-EI8BnQ.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-EI8BnQ.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/mipmap/preload{m}/cauldron-skeleton@0.5x.png": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/cauldron-skeleton.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/preload{m}/cauldron-skeleton@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/preload{m}/cauldron-skeleton@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-oWAR4g@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/preload{m}/cauldron-skeleton@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/cauldron-skeleton-oWAR4g@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-oWAR4g@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/preload{m}/cauldron-skeleton@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/preload{m}/cauldron-skeleton@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-PTDolA@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/preload{m}/cauldron-skeleton@0.5x.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/cauldron-skeleton-PTDolA@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-PTDolA@0.5x.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/preload-atlas{tps}": {
+            "isFolder": true,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}",
+            "metaData": {
+                "tps": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/preload-atlas{tps}/background.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/preload-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "wg3VWQ"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/preload-atlas{tps}/circle.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/preload-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "OrhuRQ"
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/preload-atlas{tps}/logo-pixi.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/preload-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "OnCGVA"
+        },
+        ".assetpack/texture-packer/preload{m}/preload-atlas.png": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/preload-atlas{tps}",
+            "metaData": {
+                "mIgnore": true,
+                "fix": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/mipmap/preload{m}/preload-atlas.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/preload{m}/preload-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/preload{m}/preload-atlas.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/preload{m}/preload-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/preload-atlas-Nnuf_A.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/preload{m}/preload-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/preload-atlas-Nnuf_A.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/preload-atlas-Nnuf_A.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/preload{m}/preload-atlas.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/preload{m}/preload-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/preload-atlas-662YCg.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/preload{m}/preload-atlas.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/preload-atlas-662YCg.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/preload-atlas-662YCg.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/texture-packer/preload{m}/preload-atlas.json": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/preload-atlas{tps}",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/preload{m}/preload-atlas.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/preload{m}/preload-atlas.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/preload{m}/preload-atlas.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/preload{m}/preload-atlas.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/preload{m}/preload-atlas-1X2TbA.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/preload{m}/preload-atlas.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/preload-atlas-dVODzQ.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/preload-atlas-1X2TbA.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/preload{m}/preload-atlas.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/preload{m}/preload-atlas.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/preload{m}/preload-atlas.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/preload{m}/preload-atlas.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/preload{m}/preload-atlas-QHYHBQ.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/preload{m}/preload-atlas.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/preload-atlas-cahNvA.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/preload-atlas-QHYHBQ.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer/preload{m}/preload-atlas@0.5x.png": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/preload-atlas{tps}",
+            "metaData": {
+                "mIgnore": true,
+                "fix": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/mipmap/preload{m}/preload-atlas@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/preload{m}/preload-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/preload{m}/preload-atlas@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/preload{m}/preload-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/preload-atlas-c8GBiw@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/preload{m}/preload-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/preload-atlas-c8GBiw@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/preload-atlas-c8GBiw@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/preload{m}/preload-atlas@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/preload{m}/preload-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/preload-atlas-vjD6Cg@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/preload{m}/preload-atlas@0.5x.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/preload-atlas-vjD6Cg@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/preload-atlas-vjD6Cg@0.5x.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/texture-packer/preload{m}/preload-atlas@0.5x.json": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/preload{m}/preload-atlas{tps}",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/preload{m}/preload-atlas@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/preload{m}/preload-atlas@0.5x.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/preload{m}/preload-atlas@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/preload{m}/preload-atlas@0.5x.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/preload{m}/preload-atlas-mwFqTw@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/preload{m}/preload-atlas@0.5x.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/preload-atlas-W5J5XQ@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/preload-atlas-mwFqTw@0.5x.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/preload{m}/preload-atlas@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/preload{m}/preload-atlas@0.5x.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/preload{m}/preload-atlas@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/preload{m}/preload-atlas@0.5x.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/preload{m}/preload-atlas-WBAWiw@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/preload{m}/preload-atlas@0.5x.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/preload/preload-atlas-1W4-@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/preload-atlas-WBAWiw@0.5x.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/result{m}": {
+            "isFolder": true,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets",
+            "metaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/result{m}/result-atlas{tps}": {
+            "isFolder": true,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/result{m}",
+            "metaData": {
+                "tps": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/result{m}/result-atlas{tps}/result-base.png": {
+            "isFolder": false,
+            "parent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/result{m}/result-atlas{tps}",
+            "metaData": {},
+            "transformData": {},
+            "hash": "Kn-60Q"
+        },
+        ".assetpack/texture-packer/result{m}/result-atlas.png": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/result{m}/result-atlas{tps}",
+            "metaData": {
+                "mIgnore": true,
+                "fix": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/mipmap/result{m}/result-atlas.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/result{m}/result-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/result{m}/result-atlas.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/result{m}/result-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/result{m}/result-atlas-K4lTcw.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/result{m}/result-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/result/result-atlas-K4lTcw.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/result{m}/result-atlas-K4lTcw.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/result{m}/result-atlas.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/result{m}/result-atlas.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/result{m}/result-atlas-sHb7Rg.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/result{m}/result-atlas.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/result/result-atlas-sHb7Rg.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/result{m}/result-atlas-sHb7Rg.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/texture-packer/result{m}/result-atlas.json": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/result{m}/result-atlas{tps}",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/result{m}/result-atlas.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/result{m}/result-atlas.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/result{m}/result-atlas.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/result{m}/result-atlas.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/result{m}/result-atlas-UaZMEg.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/result{m}/result-atlas.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/result/result-atlas-bHygqg.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/result{m}/result-atlas-UaZMEg.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/result{m}/result-atlas.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/result{m}/result-atlas.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/result{m}/result-atlas.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/result{m}/result-atlas.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/result{m}/result-atlas-xXkDYw.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/result{m}/result-atlas.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/result/result-atlas-7vC4TA.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/result{m}/result-atlas-xXkDYw.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer/result{m}/result-atlas@0.5x.png": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/result{m}/result-atlas{tps}",
+            "metaData": {
+                "mIgnore": true,
+                "fix": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/mipmap/result{m}/result-atlas@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/result{m}/result-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/result{m}/result-atlas@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/result{m}/result-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/result{m}/result-atlas-q_naJA@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/result{m}/result-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/result/result-atlas-q_naJA@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/result{m}/result-atlas-q_naJA@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/result{m}/result-atlas@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/result{m}/result-atlas@0.5x.png",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/result{m}/result-atlas-j9z02A@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/result{m}/result-atlas@0.5x.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/result/result-atlas-j9z02A@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/result{m}/result-atlas-j9z02A@0.5x.webp",
+            "metaData": {},
+            "transformData": {}
+        },
+        ".assetpack/texture-packer/result{m}/result-atlas@0.5x.json": {
+            "isFolder": false,
+            "transformParent": "C:/Users/devun/Downloads/Match3-MiniGame/raw-assets/result{m}/result-atlas{tps}",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/result{m}/result-atlas@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/result{m}/result-atlas@0.5x.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/result{m}/result-atlas@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/result{m}/result-atlas@0.5x.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/result{m}/result-atlas-UHA5tw@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/result{m}/result-atlas@0.5x.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/result/result-atlas-cvTE5g@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/result{m}/result-atlas-UHA5tw@0.5x.png.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/result{m}/result-atlas@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/result{m}/result-atlas@0.5x.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/result{m}/result-atlas@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/result{m}/result-atlas@0.5x.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/cache-buster/result{m}/result-atlas-RDpdUA@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/result{m}/result-atlas@0.5x.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        },
+        "C:/Users/devun/Downloads/Match3-MiniGame/public/assets/result/result-atlas-1twvyA@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/result{m}/result-atlas-RDpdUA@0.5x.webp.json",
+            "metaData": {},
+            "transformData": {
+                "page": 0
+            }
+        }
+    }
+}
